@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+  background-color: azure;
+  background-size: 150px;
+}
+h2{
+  background-color: azure;
+}
+
+.left{
+  text-align: left;
+}
+li {
+  text-align: left;
+  padding: 5px;
+  margin: 5px;
+  background: #c0b7ac;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body{
+  background-color: lightsalmon;
+  text-align: center;
+}
+
+.centering-group{
+  display: inline-block;
+  text-align: center;
+}
